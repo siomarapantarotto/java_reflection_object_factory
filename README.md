@@ -10,8 +10,6 @@ Thanks to Geocities for not deleting this and many of my other projects.
 
 ## An Example Using Metadata and Java Reflection
 
-## Description
-
 This demo uses metadata and java reflection to create a generic object factory. 
 
 The Manager class takes the name of a database table and the name of a java class as parameters and creates a class that represents the database entity. Everything is done with the use of java reflection that finds out how the table is structured in the database.
