@@ -1,6 +1,14 @@
 # Java Object Factory
 
-# An Example Using Metadata and Java Reflection
+This mini project was created in 2001 for learning/tutorial purposes.
+
+It was recently retrieved from Geocities.com, one of the most popular and successful free personal web hosting services of the 1990s, which was shut down in October 2009. 
+
+Apparently all sites hosted on the service would be deleted and could not be recovered.
+
+Thanks to Geocities for not deleting this and many of my other projects.
+
+## An Example Using Metadata and Java Reflection
 
 ## Description
 
@@ -18,11 +26,18 @@ The Manager class takes the name of a database table and the name of a java clas
 
 ## There is a total of 5 files that compose this demo:
 
-- DBConnection.java - Establishes connection to the database
-- Employee.java     - Defines Employee class
-- Department.java   - Defines Department class
-- Manager.java      - Factory Class
-- MainDriver.java   - Driver to test
+- DBConnection.java - Establishes connection to the database.
+- Employee.java     - Defines Employee class.
+- Department.java   - Defines Department class.
+- Manager.java      - Factory Class.
+- MainDriver.java   - Driver to test.
+
+## Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DB-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
+</p>
 
 ## Result Screenshot
 <kbd><img src="https://user-images.githubusercontent.com/5893219/147706134-87fdd30e-371b-421f-9f83-cbeb085cb769.gif" width="400" height="400"></kbd>
